@@ -24,19 +24,23 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I'm a Motivated Full-Stack Software Developer with experience in building and deploying web applications, primarily using Python and PostgreSQL. Proficient in database management and backend development, with a growing knowledge of JavaScript, TypeScript, React, and Node.js. Comfortable working independently and collaborating within agile teams to develop scalable and efficient solutions." 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "FastAPI",
+  "Django",
+  "SQL/Postgres",
+  "C/C++", 
+  "LaTeX", 
+  "HTML", 
+  "CSS", 
+  "JavaScript",
+  "TypeScript", 
+  "Node.js",
 ];
 
 /**
